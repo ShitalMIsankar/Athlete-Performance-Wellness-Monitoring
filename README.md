@@ -2,10 +2,6 @@
 
 An end-to-end analytics project simulating an athlete monitoring system for a multi-sport high-performance institute. It covers raw platform-style exports, Python cleaning, SQL risk analysis, and a Power BI dashboard design, centred on the **Acute:Chronic Workload Ratio (ACWR)**, a sports-science injury-risk metric.
 
-![Python]
-![SQL]
-![Power BI]
-
 ---
 
 ## 📌 Project Overview
