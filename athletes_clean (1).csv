@@ -1,0 +1,181 @@
+athlete_id,full_name,sport,squad_tier,age,gender,onboarding_date,status
+IIS-0001,Athlete_1,Boxing,Podium,21,M,2025-09-06,Active
+IIS-0002,Athlete_2,Boxing,Podium,18,M,2024-02-05,Active
+IIS-0003,Athlete_3,Athletics,Development,27,F,2024-03-06,Active
+IIS-0004,Athlete_4,Para Athletics,Talent ID,29,M,2023-06-26,Active
+IIS-0005,Athlete_5,Para Athletics,Talent ID,25,M,2025-04-25,Active
+IIS-0006,Athlete_6,Wrestling,Development,22,M,2023-05-18,Active
+IIS-0007,Athlete_7,Boxing,Talent ID,27,F,2024-09-09,Active
+IIS-0008,Athlete_8,Boxing,Talent ID,19,M,2025-08-16,Inactive
+IIS-0009,Athlete_9,Badminton,Talent ID,21,M,2024-12-21,Active
+IIS-0010,Athlete_10,Para Athletics,Development,24,M,2023-10-14,Active
+IIS-0011,Athlete_11,Archery,Talent ID,17,M,2024-06-15,Active
+IIS-0012,Athlete_12,Athletics,Talent ID,21,F,2025-02-09,Active
+IIS-0013,Athlete_13,Wrestling,Development,25,F,2025-02-26,Active
+IIS-0014,Athlete_14,Weightlifting,Development,25,F,2023-08-31,Active
+IIS-0015,Athlete_15,Weightlifting,Podium,22,M,2025-05-13,Active
+IIS-0016,Athlete_16,Archery,Development,19,F,2023-07-13,Active
+IIS-0017,Athlete_17,Swimming,Development,18,M,2024-04-08,Active
+IIS-0018,Athlete_18,Para Athletics,Podium,22,F,2023-08-06,Active
+IIS-0019,Athlete_19,Para Athletics,Development,22,M,2024-05-07,Active
+IIS-0020,Athlete_20,Weightlifting,Podium,17,M,2025-04-28,Active
+IIS-0021,Athlete_21,Athletics,Talent ID,20,F,2025-06-09,Active
+IIS-0022,Athlete_22,Boxing,Talent ID,19,M,2025-07-06,Active
+IIS-0023,Athlete_23,Archery,Development,16,M,2025-01-03,Active
+IIS-0024,Athlete_24,Weightlifting,Talent ID,22,F,2023-10-02,Inactive
+IIS-0025,Athlete_25,Swimming,Podium,26,M,2025-05-31,Active
+IIS-0026,Athlete_26,Weightlifting,Podium,28,M,2025-09-24,Active
+IIS-0027,Athlete_27,Weightlifting,Podium,20,M,2024-12-20,Unknown
+IIS-0028,Athlete_28,Swimming,Talent ID,16,M,2025-01-26,Active
+IIS-0029,Athlete_29,Badminton,Development,26,M,2024-10-04,Active
+IIS-0030,Athlete_30,Boxing,Development,19,M,2025-07-31,Active
+IIS-0031,Athlete_31,Swimming,Development,15,M,2025-05-11,Active
+IIS-0032,Athlete_32,Boxing,Development,26,M,2025-08-11,Inactive
+IIS-0033,Athlete_33,Weightlifting,Development,24,F,2025-04-14,Active
+IIS-0034,Athlete_34,Athletics,Talent ID,20,F,2024-08-28,Active
+IIS-0035,Athlete_35,Swimming,Podium,27,M,2025-04-26,Active
+IIS-0036,Athlete_36,Athletics,Podium,26,F,2023-08-28,Inactive
+IIS-0037,Athlete_37,Archery,Podium,23,M,2025-08-04,Active
+IIS-0038,Athlete_38,Weightlifting,Podium,15,M,2024-08-14,Active
+IIS-0039,Athlete_39,Wrestling,Development,25,M,2025-01-07,Active
+IIS-0040,Athlete_40,Para Athletics,Talent ID,25,M,2024-06-20,Active
+IIS-0041,Athlete_41,Boxing,Development,29,M,2025-07-18,Inactive
+IIS-0042,Athlete_42,Weightlifting,Development,24,F,2024-09-18,Unknown
+IIS-0043,Athlete_43,Athletics,Development,26,M,2023-11-18,Active
+IIS-0044,Athlete_44,Boxing,Development,26,M,2023-09-02,Active
+IIS-0045,Athlete_45,Para Athletics,Talent ID,29,M,2024-05-02,Active
+IIS-0046,Athlete_46,Para Athletics,Development,28,F,2025-08-17,Active
+IIS-0047,Athlete_47,Badminton,Talent ID,28,M,2024-03-06,Active
+IIS-0048,Athlete_48,Wrestling,Development,29,M,2024-02-13,Active
+IIS-0049,Athlete_49,Athletics,Podium,28,M,2024-09-30,Active
+IIS-0050,Athlete_50,Badminton,Talent ID,17,M,2024-01-05,Unknown
+IIS-0051,Athlete_51,Archery,Talent ID,26,F,2024-08-05,Inactive
+IIS-0052,Athlete_52,Weightlifting,Development,21,F,2025-01-01,Inactive
+IIS-0053,Athlete_53,Weightlifting,Development,18,F,2025-03-11,Active
+IIS-0054,Athlete_54,Weightlifting,Talent ID,23,F,2024-08-19,Active
+IIS-0055,Athlete_55,Badminton,Development,17,M,2023-11-06,Inactive
+IIS-0056,Athlete_56,Para Athletics,Talent ID,19,M,2025-04-02,Active
+IIS-0057,Athlete_57,Wrestling,Development,17,M,2023-09-16,Inactive
+IIS-0058,Athlete_58,Weightlifting,Podium,21,M,2025-01-14,Active
+IIS-0059,Athlete_59,Wrestling,Talent ID,19,F,2024-01-02,Active
+IIS-0060,Athlete_60,Badminton,Development,23,M,2024-11-01,Active
+IIS-0061,Athlete_61,Badminton,Podium,21,F,2023-11-08,Active
+IIS-0062,Athlete_62,Athletics,Development,16,F,2024-11-24,Active
+IIS-0063,Athlete_63,Weightlifting,Talent ID,18,M,2024-04-26,Active
+IIS-0064,Athlete_64,Wrestling,Talent ID,23,F,2025-06-28,Active
+IIS-0065,Athlete_65,Archery,Development,26,M,2025-09-06,Active
+IIS-0066,Athlete_66,Weightlifting,Development,28,M,2023-09-27,Active
+IIS-0067,Athlete_67,Athletics,Talent ID,16,F,2023-08-25,Active
+IIS-0068,Athlete_68,Swimming,Talent ID,24,M,2025-08-11,Active
+IIS-0069,Athlete_69,Swimming,Development,23,F,2023-11-18,Active
+IIS-0070,Athlete_70,Badminton,Development,24,M,2023-06-04,Inactive
+IIS-0071,Athlete_71,Swimming,Talent ID,19,F,2025-01-09,Active
+IIS-0072,Athlete_72,Weightlifting,Development,16,M,2024-12-24,Active
+IIS-0073,Athlete_73,Boxing,Development,18,M,2025-05-13,Active
+IIS-0074,Athlete_74,Badminton,Development,26,M,2024-08-10,Active
+IIS-0075,Athlete_75,Badminton,Development,29,F,2023-08-05,Active
+IIS-0076,Athlete_76,Wrestling,Talent ID,26,F,2024-11-30,Active
+IIS-0077,Athlete_77,Weightlifting,Development,21,M,2024-05-20,Active
+IIS-0078,Athlete_78,Badminton,Development,26,M,2023-09-21,Active
+IIS-0079,Athlete_79,Badminton,Podium,27,F,2024-02-03,Inactive
+IIS-0080,Athlete_80,Archery,Development,22,F,2025-08-11,Active
+IIS-0081,Athlete_81,Badminton,Talent ID,29,F,2024-12-21,Active
+IIS-0082,Athlete_82,Athletics,Podium,17,M,2024-10-08,Unknown
+IIS-0083,Athlete_83,Weightlifting,Podium,28,F,2023-05-26,Active
+IIS-0084,Athlete_84,Weightlifting,Talent ID,15,M,2024-06-12,Active
+IIS-0085,Athlete_85,Boxing,Talent ID,18,M,2023-07-28,Active
+IIS-0086,Athlete_86,Para Athletics,Talent ID,16,F,2024-02-20,Active
+IIS-0087,Athlete_87,Weightlifting,Development,22,M,2025-06-19,Active
+IIS-0088,Athlete_88,Wrestling,Development,18,F,2024-04-04,Active
+IIS-0089,Athlete_89,Swimming,Development,16,F,2025-06-15,Active
+IIS-0090,Athlete_90,Archery,Development,28,F,2023-09-11,Active
+IIS-0091,Athlete_91,Para Athletics,Talent ID,20,M,2024-11-05,Inactive
+IIS-0092,Athlete_92,Weightlifting,Development,20,F,2023-08-25,Active
+IIS-0093,Athlete_93,Wrestling,Development,24,F,2025-03-29,Active
+IIS-0094,Athlete_94,Para Athletics,Podium,18,F,2024-03-11,Active
+IIS-0095,Athlete_95,Weightlifting,Development,20,F,2023-10-25,Active
+IIS-0096,Athlete_96,Weightlifting,Development,27,F,2024-08-13,Active
+IIS-0097,Athlete_97,Wrestling,Development,29,F,2024-07-23,Active
+IIS-0098,Athlete_98,Para Athletics,Development,16,F,2025-01-17,Active
+IIS-0099,Athlete_99,Archery,Development,24,F,2025-03-19,Active
+IIS-0100,Athlete_100,Para Athletics,Development,26,M,2025-02-11,Active
+IIS-0101,Athlete_101,Athletics,Talent ID,16,F,2024-03-14,Inactive
+IIS-0102,Athlete_102,Para Athletics,Development,24,M,2024-06-08,Unknown
+IIS-0103,Athlete_103,Swimming,Development,28,M,2025-06-07,Active
+IIS-0104,Athlete_104,Athletics,Talent ID,18,M,2025-04-29,Active
+IIS-0105,Athlete_105,Badminton,Development,28,F,2024-01-20,Inactive
+IIS-0106,Athlete_106,Para Athletics,Development,29,M,2023-05-05,Unknown
+IIS-0107,Athlete_107,Boxing,Podium,29,M,2023-08-12,Active
+IIS-0108,Athlete_108,Boxing,Development,22,F,2025-04-24,Active
+IIS-0109,Athlete_109,Para Athletics,Talent ID,28,M,2023-10-09,Active
+IIS-0110,Athlete_110,Para Athletics,Development,21,M,2023-07-18,Active
+IIS-0111,Athlete_111,Weightlifting,Talent ID,26,M,2023-12-08,Active
+IIS-0112,Athlete_112,Para Athletics,Development,23,F,2024-01-31,Active
+IIS-0113,Athlete_113,Para Athletics,Development,28,F,2023-10-16,Active
+IIS-0114,Athlete_114,Athletics,Development,22,M,2024-07-16,Active
+IIS-0115,Athlete_115,Athletics,Development,19,M,2023-08-10,Active
+IIS-0116,Athlete_116,Swimming,Development,27,F,2024-12-21,Active
+IIS-0117,Athlete_117,Badminton,Podium,16,M,2024-10-25,Active
+IIS-0118,Athlete_118,Swimming,Development,29,M,2024-12-10,Active
+IIS-0119,Athlete_119,Para Athletics,Talent ID,19,M,2024-11-04,Inactive
+IIS-0120,Athlete_120,Swimming,Development,22,F,2024-08-04,Active
+IIS-0121,Athlete_121,Athletics,Podium,24,F,2025-03-07,Inactive
+IIS-0122,Athlete_122,Swimming,Talent ID,23,M,2025-05-30,Active
+IIS-0123,Athlete_123,Badminton,Talent ID,26,M,2025-06-28,Unknown
+IIS-0124,Athlete_124,Archery,Development,26,F,2024-05-09,Active
+IIS-0125,Athlete_125,Swimming,Podium,26,M,2025-01-25,Active
+IIS-0126,Athlete_126,Archery,Development,27,F,2023-05-01,Active
+IIS-0127,Athlete_127,Para Athletics,Talent ID,23,F,2023-05-28,Active
+IIS-0128,Athlete_128,Swimming,Talent ID,27,F,2024-10-13,Unknown
+IIS-0129,Athlete_129,Weightlifting,Development,29,F,2023-10-18,Active
+IIS-0130,Athlete_130,Swimming,Development,27,M,2023-10-10,Unknown
+IIS-0131,Athlete_131,Archery,Development,15,M,2024-05-05,Active
+IIS-0132,Athlete_132,Swimming,Development,23,M,2025-09-16,Active
+IIS-0133,Athlete_133,Para Athletics,Development,21,M,2024-10-20,Active
+IIS-0134,Athlete_134,Badminton,Talent ID,23,F,2024-11-11,Active
+IIS-0135,Athlete_135,Boxing,Talent ID,22,M,2025-02-03,Active
+IIS-0136,Athlete_136,Boxing,Talent ID,15,F,2023-08-15,Active
+IIS-0137,Athlete_137,Athletics,Podium,26,F,2025-08-15,Active
+IIS-0138,Athlete_138,Weightlifting,Development,22,M,2024-04-06,Active
+IIS-0139,Athlete_139,Badminton,Development,22,M,2024-01-06,Active
+IIS-0140,Athlete_140,Para Athletics,Podium,29,F,2024-06-18,Active
+IIS-0141,Athlete_141,Archery,Development,25,F,2025-07-18,Unknown
+IIS-0142,Athlete_142,Para Athletics,Podium,17,F,2024-06-21,Active
+IIS-0143,Athlete_143,Badminton,Development,15,F,2024-02-24,Unknown
+IIS-0144,Athlete_144,Badminton,Talent ID,22,F,2024-12-24,Active
+IIS-0145,Athlete_145,Weightlifting,Podium,17,M,2024-01-19,Active
+IIS-0146,Athlete_146,Archery,Development,17,F,2023-12-28,Active
+IIS-0147,Athlete_147,Archery,Development,15,F,2025-07-01,Active
+IIS-0148,Athlete_148,Wrestling,Development,25,M,2024-04-06,Inactive
+IIS-0149,Athlete_149,Swimming,Talent ID,19,M,2023-06-29,Unknown
+IIS-0150,Athlete_150,Archery,Talent ID,24,F,2023-08-21,Active
+IIS-0151,Athlete_151,Badminton,Podium,21,F,2025-09-17,Active
+IIS-0152,Athlete_152,Para Athletics,Development,24,F,2024-02-11,Active
+IIS-0153,Athlete_153,Swimming,Talent ID,23,F,2025-09-06,Active
+IIS-0154,Athlete_154,Boxing,Talent ID,26,F,2023-12-21,Active
+IIS-0155,Athlete_155,Archery,Development,21,F,2025-08-16,Active
+IIS-0156,Athlete_156,Archery,Development,23,F,2024-08-30,Active
+IIS-0157,Athlete_157,Archery,Talent ID,22,F,2024-08-03,Active
+IIS-0158,Athlete_158,Wrestling,Talent ID,26,F,2025-02-21,Unknown
+IIS-0159,Athlete_159,Wrestling,Development,16,M,2024-03-23,Active
+IIS-0160,Athlete_160,Boxing,Podium,15,M,2023-05-17,Active
+IIS-0161,Athlete_161,Athletics,Podium,21,M,2025-08-11,Active
+IIS-0162,Athlete_162,Weightlifting,Talent ID,21,F,2024-02-09,Active
+IIS-0163,Athlete_163,Athletics,Podium,28,M,2024-12-22,Active
+IIS-0164,Athlete_164,Archery,Podium,22,M,2025-06-11,Active
+IIS-0165,Athlete_165,Weightlifting,Podium,19,M,2024-02-07,Active
+IIS-0166,Athlete_166,Boxing,Talent ID,17,M,2023-08-30,Active
+IIS-0167,Athlete_167,Athletics,Talent ID,26,F,2023-09-18,Active
+IIS-0168,Athlete_168,Athletics,Talent ID,22,F,2025-07-31,Active
+IIS-0169,Athlete_169,Swimming,Development,20,M,2025-07-18,Active
+IIS-0170,Athlete_170,Wrestling,Development,25,F,2024-09-06,Active
+IIS-0171,Athlete_171,Boxing,Talent ID,17,M,2023-07-12,Active
+IIS-0172,Athlete_172,Weightlifting,Development,15,F,2024-08-04,Active
+IIS-0173,Athlete_173,Badminton,Development,17,M,2024-11-15,Inactive
+IIS-0174,Athlete_174,Boxing,Podium,19,M,2025-06-30,Active
+IIS-0175,Athlete_175,Archery,Development,29,M,2024-03-11,Active
+IIS-0176,Athlete_176,Badminton,Podium,28,F,2023-04-27,Active
+IIS-0177,Athlete_177,Boxing,Podium,17,F,2024-02-18,Active
+IIS-0178,Athlete_178,Wrestling,Podium,15,F,2023-05-20,Active
+IIS-0179,Athlete_179,Badminton,Talent ID,19,M,2023-05-20,Unknown
+IIS-0180,Athlete_180,Para Athletics,Development,24,F,2025-09-02,Active

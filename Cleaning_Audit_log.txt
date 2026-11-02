@@ -1,0 +1,13 @@
+2026-09-23 11:01:32,484 | INFO | ATHLETES: removed 6 duplicate rows (kept first occurrence).
+2026-09-23 11:01:32,484 | INFO | ATHLETES: standardized 'sport' casing on 186 rows.
+2026-09-23 11:01:32,520 | INFO | WELLNESS: corrected 2589 rows where sleep was recorded in minutes instead of hours.
+2026-09-23 11:01:32,520 | INFO | WELLNESS: flagged 15 implausible resting_hr values (set to NaN, e.g. 12, 220, -5, 999 bpm).
+2026-09-23 11:01:32,546 | INFO | WELLNESS: imputed 758 missing 'soreness_1_10' values with per-athlete median.
+2026-09-23 11:01:32,583 | INFO | WELLNESS: imputed 0 missing 'fatigue_1_10' values with per-athlete median.
+2026-09-23 11:01:32,604 | INFO | WELLNESS: imputed 0 missing 'mood_1_10' values with per-athlete median.
+2026-09-23 11:01:32,630 | INFO | WELLNESS: imputed 514 missing 'resting_hr' values with per-athlete median.
+2026-09-23 11:01:32,680 | INFO | WELLNESS: final row count 25385 (from 25385 raw rows).
+2026-09-23 11:01:32,886 | INFO | TRAINING LOAD: computed daily_load for 26655 raw sessions.
+2026-09-23 11:01:32,887 | INFO | TRAINING LOAD: built ACWR (7d/28d rolling) time series across 180 athletes, 32760 athlete-days.
+2026-09-23 11:01:32,889 | INFO | TRAINING LOAD: risk flag distribution -> {'Optimal': 28883, 'Undertraining': 2344, 'Insufficient Data': 1080, 'Elevated Risk': 439, 'High Risk': 14}
+2026-09-23 11:01:32,995 | INFO | INJURY LOG: standardized injury_type casing, parsed dates, filled 0 blank statuses on 70 rows.

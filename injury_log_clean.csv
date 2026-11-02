@@ -1,0 +1,71 @@
+athlete_id,injury_type,onset_date,days_missed,return_status
+IIS-0099,Knee - Patellar Tendinopathy,2026-01-08,42,Returned to Play
+IIS-0076,Shoulder Impingement,2025-11-30,11,Ongoing
+IIS-0141,Hamstring Strain,2026-02-03,4,Returned to Play
+IIS-0172,Achilles Tendinopathy,2025-11-20,15,Ongoing
+IIS-0112,Knee - Patellar Tendinopathy,2025-11-22,2,Returned to Play
+IIS-0152,Shoulder Impingement,2025-12-11,2,Returned to Play
+IIS-0091,Achilles Tendinopathy,2026-01-12,10,Returned to Play
+IIS-0057,Rotator Cuff Strain,2026-02-17,20,Ongoing
+IIS-0178,Hamstring Strain,2025-12-24,8,Returned to Play
+IIS-0178,Shoulder Impingement,2025-11-14,10,Returned to Play
+IIS-0085,Groin Strain,2026-02-21,28,Ongoing
+IIS-0088,Knee - Patellar Tendinopathy,2025-11-09,12,Returned to Play
+IIS-0027,Hamstring Strain,2025-12-31,2,Returned to Play
+IIS-0127,Ankle Sprain,2026-01-18,2,Ongoing
+IIS-0023,Shoulder Impingement,2026-01-09,5,Ongoing
+IIS-0022,Achilles Tendinopathy,2026-02-08,2,Returned to Play
+IIS-0022,Lower Back Pain,2025-11-26,34,Ongoing
+IIS-0149,Stress Fracture - Foot,2025-12-22,3,Returned to Play
+IIS-0093,Rotator Cuff Strain,2025-12-12,27,Returned to Play
+IIS-0093,Shoulder Impingement,2025-11-17,2,Returned to Play
+IIS-0107,Ankle Sprain,2026-02-10,2,Ongoing
+IIS-0096,Wrist Sprain,2025-11-07,15,Returned to Play
+IIS-0050,Achilles Tendinopathy,2025-12-03,2,Ongoing
+IIS-0050,Knee - Patellar Tendinopathy,2025-11-10,5,Returned to Play
+IIS-0064,Lower Back Pain,2026-02-27,66,Ongoing
+IIS-0061,Knee - Patellar Tendinopathy,2025-12-30,2,Ongoing
+IIS-0061,Rotator Cuff Strain,2025-10-31,2,Returned to Play
+IIS-0055,Wrist Sprain,2026-02-10,2,Ongoing
+IIS-0083,Rotator Cuff Strain,2025-11-07,19,Ongoing
+IIS-0177,Achilles Tendinopathy,2026-02-27,10,Ongoing
+IIS-0039,Ankle Sprain,2026-01-26,2,Ongoing
+IIS-0039,Knee - Patellar Tendinopathy,2025-12-29,18,Returned to Play
+IIS-0079,Knee - Patellar Tendinopathy,2026-01-30,3,Returned to Play
+IIS-0139,Rotator Cuff Strain,2026-01-07,14,Returned to Play
+IIS-0066,Shoulder Impingement,2026-01-11,21,Ongoing
+IIS-0103,Achilles Tendinopathy,2025-11-23,2,Returned to Play
+IIS-0159,Shoulder Impingement,2025-12-15,2,Ongoing
+IIS-0063,Knee - Patellar Tendinopathy,2025-12-04,7,Returned to Play
+IIS-0025,Shoulder Impingement,2025-11-08,3,Returned to Play
+IIS-0002,Hamstring Strain,2026-02-22,15,Returned to Play
+IIS-0009,Rotator Cuff Strain,2025-12-17,10,Returned to Play
+IIS-0014,Ankle Sprain,2025-11-16,9,Returned to Play
+IIS-0029,Wrist Sprain,2026-02-28,16,Ongoing
+IIS-0080,Rotator Cuff Strain,2026-01-30,3,Ongoing
+IIS-0090,Knee - Patellar Tendinopathy,2025-10-31,15,Ongoing
+IIS-0071,Knee - Patellar Tendinopathy,2025-12-31,2,Ongoing
+IIS-0004,Hamstring Strain,2026-01-13,2,Ongoing
+IIS-0126,Wrist Sprain,2025-12-28,3,Returned to Play
+IIS-0100,Lower Back Pain,2025-12-07,3,Ongoing
+IIS-0166,Knee - Patellar Tendinopathy,2026-01-21,10,Returned to Play
+IIS-0042,Rotator Cuff Strain,2026-01-15,9,Ongoing
+IIS-0119,Wrist Sprain,2025-11-11,6,Ongoing
+IIS-0171,Stress Fracture - Foot,2026-01-08,7,Ongoing
+IIS-0058,Lower Back Pain,2026-01-06,9,Returned to Play
+IIS-0133,Achilles Tendinopathy,2026-01-26,19,Ongoing
+IIS-0036,Ankle Sprain,2026-02-11,11,Returned to Play
+IIS-0123,Shoulder Impingement,2026-02-15,14,Ongoing
+IIS-0043,Achilles Tendinopathy,2025-12-19,6,Returned to Play
+IIS-0043,Wrist Sprain,2025-10-31,4,Returned to Play
+IIS-0048,Stress Fracture - Foot,2025-11-18,17,Ongoing
+IIS-0068,Wrist Sprain,2026-02-17,11,Returned to Play
+IIS-0113,Wrist Sprain,2026-02-17,3,Ongoing
+IIS-0113,Wrist Sprain,2025-12-05,2,Returned to Play
+IIS-0051,Lower Back Pain,2025-11-21,2,Ongoing
+IIS-0028,Lower Back Pain,2026-02-21,4,Returned to Play
+IIS-0111,Groin Strain,2026-01-07,10,Returned to Play
+IIS-0003,Lower Back Pain,2026-02-10,28,Returned to Play
+IIS-0010,Shoulder Impingement,2026-01-19,11,Ongoing
+IIS-0052,Rotator Cuff Strain,2025-11-28,14,Ongoing
+IIS-0157,Stress Fracture - Foot,2025-12-10,3,Ongoing
