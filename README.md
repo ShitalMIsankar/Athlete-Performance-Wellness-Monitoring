@@ -101,9 +101,17 @@ Early versions mixed `DD/MM/YYYY` and `MM/DD/YYYY` date strings, which are mutua
 `04_powerbi_dashboard_guide.md` specifies a 4-page dashboard:
 
 1. **Institute Overview** – roster, injury trend, risk distribution
+   <img width="1513" height="841" alt="Screenshot 2026-11-02 171046" src="https://github.com/user-attachments/assets/3fffd4a0-a119-4754-831c-bda3a988fa43" />
+
 2. **Injury Risk Monitor** – watchlist, sustained streaks, ACWR trend with reference bands
+   <img width="1523" height="745" alt="Screenshot 2026-11-02 171151" src="https://github.com/user-attachments/assets/ded994cd-6bfb-4d73-9172-e77c5717b4af" />
+
 3. **Wellness & Load Trends** – sleep/soreness/fatigue trends, squad comparison, resting HR flags
+   <img width="1511" height="605" alt="Screenshot 2026-11-02 171215" src="https://github.com/user-attachments/assets/c9b48bcf-3b50-4dac-8040-894116545cb3" />
+
 4. **Athlete Drill-Through** – single-athlete load, wellness and injury history
+   <img width="1520" height="776" alt="Screenshot 2026-11-02 171130" src="https://github.com/user-attachments/assets/d63c73da-b3f9-4a85-b40f-e60990e21843" />
+
 
 Includes star-schema model, DAX measures and layout notes.
 
